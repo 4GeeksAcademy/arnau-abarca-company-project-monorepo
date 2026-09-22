@@ -24,7 +24,7 @@ También me gustaría ser capaz de crear un sistema de agentes para pasar de dis
 ## My AI Agent Idea
 - Descripción: Un agente que cree un pool de candidatos para que otro agente pueda evaluar los datos de los CVs.
 - Qué información necesita y que produciría:
-1. Una descripción de trabajo (oferta) que podría también generarse con IA.
+1. Una descripción de trabajo (oferta) que podría también generarse con IA paralelamente.
 2. Acceso a las páginas web principales para publicar autónomamente una oferta. Ejemplo: linkedin, infojobs.
 3. Acceso a las candidaturas recibidas en los portales y a los CVs adjuntados por los candidatos.
 4. Centralización de las candidaturas y los archivos en un sistema centralizado.
