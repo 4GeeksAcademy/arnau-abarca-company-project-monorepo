@@ -22,10 +22,10 @@ También me gustaría ser capaz de crear un sistema de agentes para pasar de dis
 - Conectar los agentes que gestionan los departamentos verticales (ejemplo: atención al cliente, comunicación y mktg, ventas) a un orquestrador para poder reportar automáticamente al CEO. También, que este agente este conextado con el Business Principal: Operaciones de Selección (principal fuente de ingresos) y que leadership pueda tener una foto de la evolución de su core.
 
 ## My AI Agent Idea
-Descripción: Un agente que cree un pool de candidatos para que otro agente pueda evaluar los datos de los CVs.
-Qué información necesita y que produciría:
-1.Una descripción de trabajo (oferta) que podría también generarse con IA.
-2.Acceso a las páginas web principales para publicar autónomamente una oferta. Ejemplo: linkedin, infojobs.
-3.Acceso a las candidaturas recibidas en los portales y a los CVs adjuntados por los candidatos.
-4.Centralización de las candidaturas y los archivos en un sistema centralizado.
+- Descripción: Un agente que cree un pool de candidatos para que otro agente pueda evaluar los datos de los CVs.
+- Qué información necesita y que produciría:
+1. Una descripción de trabajo (oferta) que podría también generarse con IA.
+2. Acceso a las páginas web principales para publicar autónomamente una oferta. Ejemplo: linkedin, infojobs.
+3. Acceso a las candidaturas recibidas en los portales y a los CVs adjuntados por los candidatos.
+4. Centralización de las candidaturas y los archivos en un sistema centralizado.
 El objetivo es habilitar que otro agente se encargue de otra función. Por ejemplo: scoring y screening de candidatos -lo cual requeriría el desarrollo de otro agente.
