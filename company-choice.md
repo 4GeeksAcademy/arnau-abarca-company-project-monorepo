@@ -28,4 +28,4 @@ También me gustaría ser capaz de crear un sistema de agentes para pasar de dis
 2. Acceso a las páginas web principales para publicar autónomamente una oferta. Ejemplo: linkedin, infojobs.
 3. Acceso a las candidaturas recibidas en los portales y a los CVs adjuntados por los candidatos.
 4. Centralización de las candidaturas y los archivos en un sistema centralizado.
-El objetivo es habilitar que otro agente se encargue de otra función. Por ejemplo: scoring y screening de candidatos -lo cual requeriría el desarrollo de otro agente.
+- El objetivo es habilitar que otro agente se encargue de otra función. Por ejemplo: scoring y screening de candidatos -lo cual requeriría el desarrollo de otro agente.
